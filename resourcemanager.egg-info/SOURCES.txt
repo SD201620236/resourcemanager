@@ -1,0 +1,8 @@
+README.md
+setup.py
+resourcemanager.egg-info/PKG-INFO
+resourcemanager.egg-info/SOURCES.txt
+resourcemanager.egg-info/dependency_links.txt
+resourcemanager.egg-info/entry_points.txt
+resourcemanager.egg-info/requires.txt
+resourcemanager.egg-info/top_level.txt
