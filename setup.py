@@ -8,8 +8,8 @@ setup(
     license= 'GNU',
     install_requires ='flask',
     entry_points = {
-        'console_script':[
-            'resourcemanager == main:main'
+        'console_scripts':[
+            'resourcemanager = main:main'
         ]
     }
 )
