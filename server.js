@@ -10,7 +10,7 @@ app.get("/", function(req, res){
     res.send("<h1> Servidor rodando local na porta 3000</h1>");
 });
 
-//https://github.com/SD201620236/resourcemanager
+//https://github.com/SD201620236/resourcemanager 
 
 app.get("/info", function(req, res){
     res.send({
